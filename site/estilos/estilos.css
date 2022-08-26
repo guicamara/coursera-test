@@ -84,6 +84,10 @@ p{
 
 }
 
+conteudo {
+
+    margin-bottom: 30px;
+}
 .conteudo-escrito{
     display:flex;
     flex-direction: column;
@@ -91,9 +95,34 @@ p{
 
 }
 
+#sobreolivro {
+
+    background-image: linear-gradient(to top, rgb(16, 130, 134), cadetblue);
+    height: 400px;
+    text-align: center;
+    border-top: 2px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+    margin: 10px auto;
+    padding: 30px 30px 30px 30px;
+   
+    
+    
+    
+}
+#sobreolivro > p {
+
+    
+    
+    text-align: top;
+    width: 300px;
+    margin: 10px auto 10px;
+    display: inline-block;
+    
+}
 
 footer{
     text-align: center;
+    margin: 10px;
 }
 
 h1{
