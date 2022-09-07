@@ -149,12 +149,13 @@ form{
 }
 
 #capa{
-    background-image: url("/site/imagens/capalonga.jpg");
+    background-image: url("/imagens/capalonga.jpg");
 height: 600px;
 background-size: contain;
-background-repeat: no-repeat;
-background-position: center;
-
+/*
+//background-repeat: no-repeat;
+//background-position: center;
+*/
 
 }
 
